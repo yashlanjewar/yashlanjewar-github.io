@@ -1350,14 +1350,14 @@ Version:	1.1
 }
 /* Table List */
 #certificate .single-table .table-list {
-	padding: 68px 0 0;
+	padding: 50px 0 0;
 }
 #certificate .single-table .table-list li {
 	font-size: 14px;
 	font-weight: 400;
 	display: block;
 	cursor: pointer;
-	padding: 10px 0;
+	padding: 8px 0;
 	color: #666;
 }
 /* Table Bottom */
